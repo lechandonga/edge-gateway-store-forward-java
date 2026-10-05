@@ -1,4 +1,9 @@
 target/
+.idea/
+.vscode/
+*.log
+data/gateway/
+data/smoke*/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
